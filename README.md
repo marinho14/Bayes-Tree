@@ -7,7 +7,7 @@
 ## Punto 5 
 
 <p >
-   <img src=Tabla Matlab.PNG>
+   <img src="Tabla Matlab.PNG">
 </p>
 
 PDF link
