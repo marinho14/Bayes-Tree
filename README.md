@@ -2,10 +2,12 @@
 
 ## Punto 2 y 3
 
-Lo encuentra en el archivo de collab adjunto en el repositorio
+- [Codigo Naive Bayes y Decision Tree](NaiveDesicion.ipynb)
 
 ## Punto 5 
 
-La tabla 
+<p >
+   <img src=TablaMatlab.PNG>
+</p>
 
 PDF link
