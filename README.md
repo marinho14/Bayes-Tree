@@ -6,7 +6,7 @@
 
 ## Punto 5 
 
-- [Apuntes videos](BayesTree.pdf)
+- [Apuntes videos](Bayes_tree.pdf)
 <p align="center">
    <img src="Tabla Matlab.PNG">
 </p>
