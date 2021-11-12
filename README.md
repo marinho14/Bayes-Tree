@@ -6,8 +6,8 @@
 
 ## Punto 5 
 
-<p >
+- [Apuntes videos](BayesTree.pdf)
+<p align="center">
    <img src="Tabla Matlab.PNG">
 </p>
 
-PDF link
